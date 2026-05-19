@@ -5,6 +5,6 @@ Each folder is a self-contained project, built to try something new, break thing
 
 ## Experiments
 
-- **[hello-world](./hello-world)** — A Mac-screensaver-style "Hello, world" that bounces around the screen with shifting colors and moody backgrounds. Built with React + Vite.
+- **[hello-world](./hello-world)** — A Mac-screensaver-style inspired "Hello, world" that bounces around the screen with shifting colors and moody backgrounds. Built with React + Vite.
 
 *(more coming as I build them)*
